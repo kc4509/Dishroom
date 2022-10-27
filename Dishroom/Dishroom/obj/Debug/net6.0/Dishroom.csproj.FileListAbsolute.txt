@@ -1,0 +1,60 @@
+C:\Users\kelly\Desktop\Dishroom\Dishroom\bin\Debug\net6.0\Dishroom.exe
+C:\Users\kelly\Desktop\Dishroom\Dishroom\bin\Debug\net6.0\Dishroom.deps.json
+C:\Users\kelly\Desktop\Dishroom\Dishroom\bin\Debug\net6.0\Dishroom.runtimeconfig.json
+C:\Users\kelly\Desktop\Dishroom\Dishroom\bin\Debug\net6.0\Dishroom.dll
+C:\Users\kelly\Desktop\Dishroom\Dishroom\bin\Debug\net6.0\Dishroom.pdb
+C:\Users\kelly\Desktop\Dishroom\Dishroom\obj\Debug\net6.0\Dishroom.csproj.AssemblyReference.cache
+C:\Users\kelly\Desktop\Dishroom\Dishroom\obj\Debug\net6.0\Dishroom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelly\Desktop\Dishroom\Dishroom\obj\Debug\net6.0\Dishroom.AssemblyInfoInputs.cache
+C:\Users\kelly\Desktop\Dishroom\Dishroom\obj\Debug\net6.0\Dishroom.AssemblyInfo.cs
+C:\Users\kelly\Desktop\Dishroom\Dishroom\obj\Debug\net6.0\Dishroom.csproj.CoreCompileInputs.cache
+C:\Users\kelly\Desktop\Dishroom\Dishroom\obj\Debug\net6.0\Dishroom.dll
+C:\Users\kelly\Desktop\Dishroom\Dishroom\obj\Debug\net6.0\refint\Dishroom.dll
+C:\Users\kelly\Desktop\Dishroom\Dishroom\obj\Debug\net6.0\Dishroom.pdb
+C:\Users\kelly\Desktop\Dishroom\Dishroom\obj\Debug\net6.0\Dishroom.genruntimeconfig.cache
+C:\Users\kelly\Desktop\Dishroom\Dishroom\obj\Debug\net6.0\ref\Dishroom.dll
+C:\Users\Kelly\Downloads\Dishroom\Dishroom\Dishroom\obj\Debug\net6.0\Dishroom.csproj.AssemblyReference.cache
+C:\Users\Kelly\Downloads\Dishroom\Dishroom\Dishroom\obj\Debug\net6.0\Dishroom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelly\Downloads\Dishroom\Dishroom\Dishroom\obj\Debug\net6.0\Dishroom.AssemblyInfoInputs.cache
+C:\Users\Kelly\Downloads\Dishroom\Dishroom\Dishroom\obj\Debug\net6.0\Dishroom.AssemblyInfo.cs
+C:\Users\Kelly\Downloads\Dishroom\Dishroom\Dishroom\obj\Debug\net6.0\Dishroom.csproj.CoreCompileInputs.cache
+C:\Users\Kelly\Downloads\Dishroom\Dishroom\Dishroom\obj\Debug\net6.0\Dishroom.dll
+C:\Users\Kelly\Downloads\Dishroom\Dishroom\Dishroom\obj\Debug\net6.0\refint\Dishroom.dll
+C:\Users\Kelly\Downloads\Dishroom\Dishroom\Dishroom\obj\Debug\net6.0\Dishroom.pdb
+C:\Users\Kelly\Downloads\Dishroom\Dishroom\Dishroom\bin\Debug\net6.0\Dishroom.exe
+C:\Users\Kelly\Downloads\Dishroom\Dishroom\Dishroom\bin\Debug\net6.0\Dishroom.deps.json
+C:\Users\Kelly\Downloads\Dishroom\Dishroom\Dishroom\bin\Debug\net6.0\Dishroom.runtimeconfig.json
+C:\Users\Kelly\Downloads\Dishroom\Dishroom\Dishroom\bin\Debug\net6.0\Dishroom.dll
+C:\Users\Kelly\Downloads\Dishroom\Dishroom\Dishroom\bin\Debug\net6.0\Dishroom.pdb
+C:\Users\Kelly\Downloads\Dishroom\Dishroom\Dishroom\obj\Debug\net6.0\Dishroom.genruntimeconfig.cache
+C:\Users\Kelly\Downloads\Dishroom\Dishroom\Dishroom\obj\Debug\net6.0\ref\Dishroom.dll
+C:\Users\Kelly\Downloads\Dishroom (1)\Dishroom\Dishroom\bin\Debug\net6.0\Dishroom.exe
+C:\Users\Kelly\Downloads\Dishroom (1)\Dishroom\Dishroom\bin\Debug\net6.0\Dishroom.deps.json
+C:\Users\Kelly\Downloads\Dishroom (1)\Dishroom\Dishroom\bin\Debug\net6.0\Dishroom.runtimeconfig.json
+C:\Users\Kelly\Downloads\Dishroom (1)\Dishroom\Dishroom\bin\Debug\net6.0\Dishroom.dll
+C:\Users\Kelly\Downloads\Dishroom (1)\Dishroom\Dishroom\bin\Debug\net6.0\Dishroom.pdb
+C:\Users\Kelly\Downloads\Dishroom (1)\Dishroom\Dishroom\obj\Debug\net6.0\Dishroom.csproj.AssemblyReference.cache
+C:\Users\Kelly\Downloads\Dishroom (1)\Dishroom\Dishroom\obj\Debug\net6.0\Dishroom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelly\Downloads\Dishroom (1)\Dishroom\Dishroom\obj\Debug\net6.0\Dishroom.AssemblyInfoInputs.cache
+C:\Users\Kelly\Downloads\Dishroom (1)\Dishroom\Dishroom\obj\Debug\net6.0\Dishroom.AssemblyInfo.cs
+C:\Users\Kelly\Downloads\Dishroom (1)\Dishroom\Dishroom\obj\Debug\net6.0\Dishroom.csproj.CoreCompileInputs.cache
+C:\Users\Kelly\Downloads\Dishroom (1)\Dishroom\Dishroom\obj\Debug\net6.0\Dishroom.dll
+C:\Users\Kelly\Downloads\Dishroom (1)\Dishroom\Dishroom\obj\Debug\net6.0\refint\Dishroom.dll
+C:\Users\Kelly\Downloads\Dishroom (1)\Dishroom\Dishroom\obj\Debug\net6.0\Dishroom.pdb
+C:\Users\Kelly\Downloads\Dishroom (1)\Dishroom\Dishroom\obj\Debug\net6.0\Dishroom.genruntimeconfig.cache
+C:\Users\Kelly\Downloads\Dishroom (1)\Dishroom\Dishroom\obj\Debug\net6.0\ref\Dishroom.dll
+C:\Users\Kelly\Desktop\Skool\Game Codes\Dishroom (1)\Dishroom\Dishroom\bin\Debug\net6.0\Dishroom.exe
+C:\Users\Kelly\Desktop\Skool\Game Codes\Dishroom (1)\Dishroom\Dishroom\bin\Debug\net6.0\Dishroom.deps.json
+C:\Users\Kelly\Desktop\Skool\Game Codes\Dishroom (1)\Dishroom\Dishroom\bin\Debug\net6.0\Dishroom.runtimeconfig.json
+C:\Users\Kelly\Desktop\Skool\Game Codes\Dishroom (1)\Dishroom\Dishroom\bin\Debug\net6.0\Dishroom.dll
+C:\Users\Kelly\Desktop\Skool\Game Codes\Dishroom (1)\Dishroom\Dishroom\bin\Debug\net6.0\Dishroom.pdb
+C:\Users\Kelly\Desktop\Skool\Game Codes\Dishroom (1)\Dishroom\Dishroom\obj\Debug\net6.0\Dishroom.csproj.AssemblyReference.cache
+C:\Users\Kelly\Desktop\Skool\Game Codes\Dishroom (1)\Dishroom\Dishroom\obj\Debug\net6.0\Dishroom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelly\Desktop\Skool\Game Codes\Dishroom (1)\Dishroom\Dishroom\obj\Debug\net6.0\Dishroom.AssemblyInfoInputs.cache
+C:\Users\Kelly\Desktop\Skool\Game Codes\Dishroom (1)\Dishroom\Dishroom\obj\Debug\net6.0\Dishroom.AssemblyInfo.cs
+C:\Users\Kelly\Desktop\Skool\Game Codes\Dishroom (1)\Dishroom\Dishroom\obj\Debug\net6.0\Dishroom.csproj.CoreCompileInputs.cache
+C:\Users\Kelly\Desktop\Skool\Game Codes\Dishroom (1)\Dishroom\Dishroom\obj\Debug\net6.0\Dishroom.dll
+C:\Users\Kelly\Desktop\Skool\Game Codes\Dishroom (1)\Dishroom\Dishroom\obj\Debug\net6.0\refint\Dishroom.dll
+C:\Users\Kelly\Desktop\Skool\Game Codes\Dishroom (1)\Dishroom\Dishroom\obj\Debug\net6.0\Dishroom.pdb
+C:\Users\Kelly\Desktop\Skool\Game Codes\Dishroom (1)\Dishroom\Dishroom\obj\Debug\net6.0\Dishroom.genruntimeconfig.cache
+C:\Users\Kelly\Desktop\Skool\Game Codes\Dishroom (1)\Dishroom\Dishroom\obj\Debug\net6.0\ref\Dishroom.dll
